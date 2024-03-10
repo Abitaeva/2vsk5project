@@ -1,0 +1,11 @@
+{
+    "registration": {
+      "title": "Форма регистрации",
+      "first_name": "Имя",
+      "last_name": "Фамилия",
+      "phone_number": "Номер телефона",
+      "password": "Пароль",
+      "register_button": "Зарегистрироваться"
+    }
+  }
+  

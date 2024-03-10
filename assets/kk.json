@@ -1,0 +1,11 @@
+{
+    "registration": {
+      "title": "Тіркеу формасы",
+      "first_name": "Аты",
+      "last_name": "Тегі",
+      "phone_number": "Телефон нөмірі",
+      "password": "Құпия сөз",
+      "register_button": "Тіркелу"
+    }
+  }
+  
